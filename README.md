@@ -14,3 +14,7 @@ AIFFEL 강남 2기 - 두시데이터 풀잎 5조 깃헙입니다.
   - [update] titanic-data-science-solutions-no-code-part2
   - [update] titanic-data-science-solutions-no-commnets
   - [update] titanic-data-science-solutions-no-commnets-part2 -> complete version
+- 2021-08-11 11:28
+  - [update] comprehensive-data-exploration-with-python
+  - [update] comprehensive-data-exploration-with-python-no-code
+  - [update] comprehensive-data-exploration-with-python-no-comments
